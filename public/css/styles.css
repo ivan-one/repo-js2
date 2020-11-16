@@ -12,11 +12,11 @@ header {
     text-align: center;
 }
 
-section.list_item {
+.goods-list {
     display: flex;
     width: 100%;
 }
 
-.img_item {
+img {
     width: 100%;
 }
